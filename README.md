@@ -1,2 +1,2 @@
 # HTML
-Important Concepts In HTML
+Important Points In HTML
